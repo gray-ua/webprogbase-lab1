@@ -1,2 +1,2 @@
 # webprogbase-lab1
-study
+educational repository
